@@ -1,4 +1,4 @@
-# LLM Modeled After My Personal Data
+
 
 This project aimed to create a personal AI that anyone can talk to, modeled after my own data. The AI uses a combination of natural language processing tools and deep learning models to generate personalized responses based on the user's query.
 
