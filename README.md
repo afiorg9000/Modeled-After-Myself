@@ -15,17 +15,3 @@ The project utilizes the following technologies:
 - **OpenAI**: A tool for natural language processing and machine learning.
 
 - **Google Colab**: A cloud-based platform for running Python code.
-
-## Installation
-
-Open the Google Colab project from the ipynb file and run the program. By block 4, Use an openapi key to succesfully run the program.
-
-## Usage
-Create a `data.txt` file with your personal data.
-
-Run the app and interact with the personal AI by typing your query into the text input field and press enter to apply. The AI will then generate a personalized response based on your query and the personal data.
-
-
-## Contributing
-
-If you would like to contribute to this project, feel free to submit a pull request. Please include a detailed description of your changes and any relevant documentation.
